@@ -1,4 +1,4 @@
-kb-manager
+kb-manager==0.1.6
 kivymd==0.104.1
 Kivy==2.0.0
 requests==2.25.1
